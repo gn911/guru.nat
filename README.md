@@ -1,4 +1,3 @@
-# guru.nat
 <!DOCTYPE html>
 <html lang="en">
 <head>
